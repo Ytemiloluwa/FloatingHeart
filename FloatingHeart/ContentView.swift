@@ -16,7 +16,7 @@ struct ContentView: View {
         
         ZStack {
             
-            Color.black.edgesIgnoringSafeArea(.all)
+            //Color.black.edgesIgnoringSafeArea(.all)
             
             VStack {
                 
@@ -31,12 +31,12 @@ struct ContentView: View {
                     }
                     label: {
                         
-                        Image(systemName: "heart")
+                        Image(systemName: "heart.fill")
                             .font(.title)
                             .frame(width: 80, height: 80)
-                            .foregroundColor(Color.white)
-                            .background(Color.blue)
-                            .clipShape(Circle())
+                            .foregroundColor(Color.red)
+                            //.background(Color.blue)
+                            //.clipShape(Circle())
                             .shadow(radius: 10)
                         
                     }
@@ -144,9 +144,11 @@ extension Color {
     
     static func random() -> Color {
         
-        Color(r: Double.random(in: 100...144),
-              g: Double.random(in: 10...200),
-              b: Double.random(in: 200...244))
+//        Color(r: Double.random(in: 100...144),
+//              g: Double.random(in: 10...200),
+//              b: Double.random(in: 200...244))
+        
+        return Color(r: 255, g: 0, b: 0)
     }
 }
 
