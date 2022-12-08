@@ -1,4 +1,9 @@
 # FloatingHeart
 
-![white](https://user-images.githubusercontent.com/91268094/174461287-61348ba7-5258-472e-b5aa-ad62c054d607.png)
-![black](https://user-images.githubusercontent.com/91268094/174461323-9f597e80-8e6b-4f1a-a9b5-2bb50ea0375a.png)
+## Instagram like animation in Dark Mode
+
+![dark mode](https://user-images.githubusercontent.com/91268094/206401155-a16af0c4-1643-463c-b405-a5953c0d3bd5.png)
+
+## Instagram like animation in White Mode
+
+![white mode iG](https://user-images.githubusercontent.com/91268094/206401179-2d8f925c-bf70-47f6-842b-f804d48ce439.png)
